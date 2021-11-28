@@ -14,57 +14,25 @@
       "author_id2"
     ],
     "lessons": {
-      "lesson_id1": {
+      "Introduction-To-Data-Science": {
         "name": "Introduction to Data Science",
         "description": "We'll start the course by defining what data science is. We'll cover the data science workflow and how data science is applied to real-world problems. We'll finish the chapter by learning about different roles within the data science field.",
         "exercises": {
-          "exercise_id1": {
+          "Advantages-of-data-science": {
             "title": "Data sources",
-            "type": "article"
+            "type": "QUIZ_MULTIPLE"
           },
-          "exercise_id2": {
+          "Implimentation-of-data-science": {
             "title": "Sorting Data resources",
-            "type": "code"
+            "type": "CODING_EXERCISE"
           },
-          "exercise_id3": {
+          "Usage-of-data-science": {
             "title": "Visual EDA",
-            "type": "quiz"
-          }
-        }
-      },
-      "lesson_id2": {
-        "name": "Data Collection and Storage",
-        "description": "Now that we understand the data science workflow, we'll dive deeper into the first step: data collection and storage. We'll learn about the different data sources you can draw from, what that data looks like, how to store the data once it's collected, and how a data pipeline can automate the process.",
-        "exercises": {
-          "exercise_id1": {
-            "title": "Data preparation",
-            "type": "article"
+            "type": "QUIZ_SINGLE"
           },
-          "exercise_id2": {
+          "What-is-data-science": {
             "title": "Visual EDA",
-            "type": "quiz"
-          },
-          "exercise_id3": {
-            "title": "Sorting Data resources",
-            "type": "code"
-          }
-        }
-      },
-      "lesson_id3": {
-        "name": "Preparation, Exploration, and Visualization",
-        "description": "Data preparation is fundamental: data scientists spend 80% of their time cleaning and manipulating data, and only 20% of their time actually analyzing it. This chapter will show you how to diagnose problems in your data, deal with missing values and outliers. You will then learn about visualization, another essential tool to both explore your data and convey your findings.",
-        "exercises": {
-          "exercise_id1": {
-            "title": "A/B Testing",
-            "type": "article"
-          },
-          "exercise_id2": {
-            "title": "Creating a A/B Testing workflow",
-            "type": "code"
-          },
-          "exercise_id3": {
-            "title": "Visual EDA",
-            "type": "quiz"
+            "type": "ARTICLE"
           }
         }
       }

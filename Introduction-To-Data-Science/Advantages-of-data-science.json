@@ -1,0 +1,57 @@
+{
+  "type": "QUIZ_MULTIPLE",
+  "data": {
+    "title": "Practice Question for Part 1",
+    "description": "Instructions / Note",
+    "content": [
+      {
+        "type": "SINGLE_CORRECT",
+        "image": null,
+        "explanation": "this is explanation",
+        "options": [
+          {
+            "content": "Option 1",
+            "isCorrect": false
+          },
+          {
+            "content": "Option 2",
+            "isCorrect": false
+          },
+          {
+            "content": "Option 3",
+            "isCorrect": false
+          },
+          {
+            "content": "Option 4",
+            "isCorrect": true
+          }
+        ],
+        "question": "Quiz Question"
+      },
+      {
+        "type": "MULTIPLE_CORRECT",
+        "image": null,
+        "explanation": "Explanation for the same",
+        "options": [
+          {
+            "content": "Option 1",
+            "isCorrect": false
+          },
+          {
+            "content": "Option 2",
+            "isCorrect": true
+          },
+          {
+            "content": "Option 3",
+            "isCorrect": true
+          },
+          {
+            "content": "Option 4",
+            "isCorrect": false
+          }
+        ],
+        "question": "This a multiple option quiz"
+      }
+    ]
+  }
+}
